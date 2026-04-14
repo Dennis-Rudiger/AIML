@@ -1,0 +1,24 @@
+# Core ML & Data Manipulation
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+xgboost
+
+# Deep Learning (Computer Vision & NLP)
+torch
+torchvision
+
+# LLM & Generative AI (RAG)
+transformers
+langchain
+langchain-community
+chromadb
+sentence-transformers
+streamlit
+
+# Misc Tools
+jupyter
+notebook
+python-dotenv

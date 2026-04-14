@@ -1,0 +1,23 @@
+# Virtual Environments
+venv/
+env/
+.venv/
+
+# Pycache
+__pycache__/
+*.pyc
+
+# Environment Variables (Keep API keys secret!)
+.env
+
+# Vector Database storage (RAG)
+temp/
+chromadb/
+
+# OS setup files
+.DS_Store
+.vscode/
+
+# Note: We are keeping the .csv, .txt, and .pth files since they are small for this portfolio 
+# and needed for recruiters to run the code easily. In a real enterprise project, 
+# massive datasets and models are usually ignored in git and stored in AWS S3 or Git LFS.
