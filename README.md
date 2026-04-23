@@ -19,6 +19,11 @@ Welcome to my AI and Machine Learning portfolio! This repository showcases my jo
    - **Skills Demonstrated:** LangChain, Vector Databases (Chroma/FAISS), API integration (OpenAI or HuggingFace), Streamlit for UI.
    - **Why this matters:** Building LLM applications is the most in-demand skill in AI right now.
 
+4. **`04_Speech_Recognition_Whisper` (Audio & Speech / ASR)**
+   - **Goal:** Build a script that listens to human speech audio files (`.wav`) and automatically transcribes them into text offline.
+   - **Skills Demonstrated:** Hugging Face `transformers`, PyTorch, Open-source Whisper models.
+   - **Why this matters:** Being able to process sound, vision, and text makes you a "Triple Threat" in unstructured data AI.
+
 ## Getting Started
 
 1. Clone or download this repository.
